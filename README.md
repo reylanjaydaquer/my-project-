@@ -19,6 +19,7 @@ This project is a custom-designed printed circuit board (PCB) based on the ESP32
 * Suitable for embedded systems and IoT applications
 * Easy integration with sensors and external modules
 * # pcb image/screenshots
+* ![image]9https://github.com/reylanjaydaquer/my-project-/blob/076007bfdf3ae184fc192c7bda577380553a830c/Screenshot%202026-05-30%20204940.png)
 * ## Features
 
 | ESP32-DevKit-V1 Module | 5V Regulated Power Supply | DC Power Input  |
