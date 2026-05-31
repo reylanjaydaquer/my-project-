@@ -21,6 +21,7 @@ This project is a custom-designed printed circuit board (PCB) based on the ESP32
 * # pcb image/screenshots
 * ![image]9https://github.com/reylanjaydaquer/my-project-/blob/076007bfdf3ae184fc192c7bda577380553a830c/Screenshot%202026-05-30%20204940.png)
 * ![image](https://github.com/reylanjaydaquer/my-project-/blob/3d7e81f39fca781b86bd795ce1b05214a89414ac/Screenshot%202026-05-30%20205033.png)
+* ![image](https://github.com/reylanjaydaquer/my-project-/blob/f4dbc170a39238fc94ff2b5b1a73d7cdbb1c611e/Screenshot%202026-05-30%20205130.png)
 * ## Features
 
 | ESP32-DevKit-V1 Module | 5V Regulated Power Supply | DC Power Input  |
